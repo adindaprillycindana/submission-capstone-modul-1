@@ -1,10 +1,9 @@
-# 🛡️ Insurance Product CRUD Program
+# 🛡️ InSync — Insurance System Navigation for Control
 
 ## 📌 Deskripsi
-Program ini dibuat untuk membantu **karyawan produk asuransi** dalam menyimpan, mengelola, dan memantau data produk-produk asuransi beserta **track product details** (status, jumlah polis yang diterbitkan, dan detail lainnya).
+**InSync** adalah program berbasis terminal yang dirancang untuk membantu **karyawan produk asuransi** dalam menyimpan, mengelola, dan memantau data produk asuransi beserta **track product details** seperti status, jumlah polis yang diterbitkan, tarif, dan nilai pertanggungan.
 
-Program ini berbasis **Python** dan berjalan di terminal/command line, dengan menu interaktif untuk melakukan operasi **CRUD** (*Create, Read, Update, Delete*) pada data produk.
-
+Program ini menyediakan menu interaktif untuk melakukan operasi **CRUD** (*Create, Read, Update, Delete*) dengan mudah, sehingga data dapat diatur secara efisien dan terstruktur.
 ---
 
 ## 🎯 Manfaat Program
@@ -36,15 +35,15 @@ Program menyimpan data dengan kolom sebagai berikut:
 ## 📜 Fitur Program
 
 ### 1. **Main Menu**
-1. **Display Data**  
-2. **Add Data Baru**  
-3. **Update Data**  
-4. **Delete Data**  
+1. **Display Products (READ)** 
+2. **Add New Product (CREATE)**  
+3. **Update Product Details (UPDATE)**  
+4. **Delete Product (DELETE)**  
 5. **Exit Program**  
 
 ---
 
-### 2. **Display Data Menu**
+### 2. **Display Products Menu**
 - Menampilkan seluruh data.  
   *(Fitur lanjutan: dapat mengurutkan (ASC/DESC) berdasarkan kolom yang diinput user)*  
 - Menampilkan sebagian data berdasarkan kolom yang diinput user.  
@@ -52,20 +51,20 @@ Program menyimpan data dengan kolom sebagai berikut:
 
 ---
 
-### 3. **Create Data Menu**
+### 3. **Add New Product Menu**
 - Menambah produk baru.  
 - Menambah kolom baru.  
 - Kembali ke Main Menu.
 
 ---
 
-### 4. **Update Data Menu**
+### 4. **Update Product Detail Menu**
 - Mengedit data berdasarkan nama kolom.  
 - Kembali ke Main Menu.
 
 ---
 
-### 5. **Delete Data Menu**
+### 5. **Delete Product Menu**
 - Menghapus data berdasarkan **Product Code** (nilai unik).  
 - Kembali ke Main Menu.
 

@@ -2,8 +2,9 @@
 
 ## 📌 Deskripsi
 **InSync** adalah program berbasis terminal yang dirancang untuk membantu **karyawan produk asuransi** dalam menyimpan, mengelola, dan memantau data produk asuransi beserta **track product details** seperti status, jumlah polis yang diterbitkan, tarif, dan nilai pertanggungan.
----
+
 Program ini menyediakan menu interaktif untuk melakukan operasi **CRUD** (*Create, Read, Update, Delete*) dengan mudah, sehingga data dapat diatur secara efisien dan terstruktur.
+
 ---
 
 ## 🎯 Manfaat Program
